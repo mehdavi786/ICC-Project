@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ICC Assingment\\21K-4885\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|d:\\icc assingment\\21k-4885\\21k-4885\\pages\\models.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|solutionrelative:21k-4885\\pages\\models.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|d:\\icc assingment\\21k-4885\\21k-4885\\pages\\benifits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|solutionrelative:21k-4885\\pages\\benifits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|d:\\icc assingment\\21k-4885\\21k-4885\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|solutionrelative:21k-4885\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|d:\\icc assingment\\21k-4885\\21k-4885\\pages\\evolution.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|solutionrelative:21k-4885\\pages\\evolution.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|d:\\icc assingment\\21k-4885\\21k-4885\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|solutionrelative:21k-4885\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|d:\\icc assingment\\21k-4885\\21k-4885\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|solutionrelative:21k-4885\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|d:\\icc assingment\\21k-4885\\21k-4885\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|solutionrelative:21k-4885\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|d:\\icc assingment\\21k-4885\\21k-4885\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|solutionrelative:21k-4885\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|d:\\icc assingment\\21k-4885\\21k-4885\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583415CF-C478-46BC-9D17-0C3E6CA77A80}|21K-4885\\21K-4885.csproj|solutionrelative:21k-4885\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "21K-4885\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Error.cshtml",
+              "RelativeToolTip": "21K-4885\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T05:54:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Benifits.cshtml",
+              "DocumentMoniker": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Benifits.cshtml",
+              "RelativeDocumentMoniker": "21K-4885\\Pages\\Benifits.cshtml",
+              "ToolTip": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Benifits.cshtml",
+              "RelativeToolTip": "21K-4885\\Pages\\Benifits.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T05:54:07.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "21K-4885\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "21K-4885\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T05:54:04.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "21K-4885\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "21K-4885\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T05:54:02.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Evolution.cshtml",
+              "DocumentMoniker": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Evolution.cshtml",
+              "RelativeDocumentMoniker": "21K-4885\\Pages\\Evolution.cshtml",
+              "ToolTip": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Evolution.cshtml",
+              "RelativeToolTip": "21K-4885\\Pages\\Evolution.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T05:38:20.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "21K-4885\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Index.cshtml",
+              "RelativeToolTip": "21K-4885\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T05:38:16.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\ICC Assingment\\21K-4885\\21K-4885\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "21K-4885\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\ICC Assingment\\21K-4885\\21K-4885\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "21K-4885\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-28T05:25:53.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Models.cshtml",
+              "DocumentMoniker": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Models.cshtml",
+              "RelativeDocumentMoniker": "21K-4885\\Pages\\Models.cshtml",
+              "ToolTip": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Models.cshtml",
+              "RelativeToolTip": "21K-4885\\Pages\\Models.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T09:40:20.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "21K-4885\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ICC Assingment\\21K-4885\\21K-4885\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "21K-4885\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T05:25:50.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

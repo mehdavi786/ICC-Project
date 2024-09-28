@@ -1,0 +1,100 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Models";
+}
+<h1>@ViewData["Title"]</h1>
+
+<ul>
+    <li><h4>Infrastructure as a Service (IaaS)</h4></li>
+    <p>
+        IaaS provides virtualized computing resources over the internet. In this model:
+        Users rent virtual machines, storage, networks, and operating systems from a cloud provider.
+        The provider manages the underlying hardware infrastructure and
+        users have control over operating systems, storage, and deployed applications.
+        Examples: Amazon EC2, Microsoft Azure VMs, Google Compute Engine
+    </p>
+    <li><h4>Platform as a Service (PaaS)</h4></li>
+    <p>
+        PaaS provides a platform allowing customers to develop, run, and manage applications without the complexity of maintaining the underlying infrastructure. In this model:
+
+        The provider manages hardware and software on its own infrastructure.
+        Users focus on application development without worrying about operating systems, software updates, storage, or infrastructure and
+        offers tools and services designed for software development.
+        Examples: Google App Engine, Heroku, Microsoft Azure App Services
+    </p>
+    <li><h4>Software as a Service (SaaS)</h4></li>
+    <p>
+        SaaS delivers software applications over the internet, eliminating the need for users to install and run the application on their own computers. In this model:
+
+        Applications are managed from a central location.
+        Users access applications via a web browser and
+        the provider handles all updates and maintenance.
+        Examples: Google Workspace, Salesforce, Dropbox
+    </p>
+</ul>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px; background-color: #fff; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1;">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Iaas</th>
+            <th>Paas</th>
+            <th>Saas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>User Control</td>
+            <td>High</td>
+            <td>Medium</td>
+            <td>Low</td>
+        </tr>
+        <tr>
+            <td>Maintenance</td>
+            <td>User handles most</td>
+            <td>Provider handles more</td>
+            <td>Provider handles all</td>
+        </tr>
+        <tr>
+            <td>Scalability</td>
+            <td>Manual</td>
+            <td>Often automatic</td>
+            <td>Automatic</td>
+        </tr>
+        <tr>
+            <td>Use Case</td>
+            <td>IT Infrastructure</td>
+            <td>Aplication development</td>
+            <td>Ready-to-use software</td>
+        </tr>
+    </tbody>
+</table>
+
+<style>
+    th, td {
+        padding: 12px 15px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+    th {
+        background-color: #4CAF50;
+        color: white;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #ddd;
+    }
+
+    caption {
+        font-size: 1.2em;
+        font-weight: bold;
+        margin-bottom: 10px;
+        color: #333;
+    }
+</style>
